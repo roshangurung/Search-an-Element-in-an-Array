@@ -1,0 +1,10 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\bin\Debug\netcoreapp2.1\Search an Element in an Array.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\bin\Debug\netcoreapp2.1\Search an Element in an Array.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\bin\Debug\netcoreapp2.1\Search an Element in an Array.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\bin\Debug\netcoreapp2.1\Search an Element in an Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\bin\Debug\netcoreapp2.1\Search an Element in an Array.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\obj\Debug\netcoreapp2.1\Search an Element in an Array.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\obj\Debug\netcoreapp2.1\Search an Element in an Array.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\obj\Debug\netcoreapp2.1\Search an Element in an Array.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\obj\Debug\netcoreapp2.1\Search an Element in an Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Search an Element in an Array\Search an Element in an Array\obj\Debug\netcoreapp2.1\Search an Element in an Array.pdb
